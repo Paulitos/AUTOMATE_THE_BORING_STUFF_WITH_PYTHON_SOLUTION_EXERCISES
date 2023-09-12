@@ -18,7 +18,7 @@ Replace `USER` with your username and `XX` with the Python version you have inst
 
 ## Storage Location
 
-It's advisable to avoid storing your "PATH" to the files in an iCloud folder such as OneDrive. It's preferred to store it on your local machine. This guide assumes this storage arrangement.
+It's advisable to avoid storing your "PATH" _to the files_ in an iCloud folder such as OneDrive. It's preferred to store it on your local machine. This guide assumes this storage arrangement.
 
 ## Mu Editor
 
