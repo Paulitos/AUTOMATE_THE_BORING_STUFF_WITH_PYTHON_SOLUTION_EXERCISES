@@ -8,6 +8,6 @@ I recommend you checking YT videos in order to see how to play:
 * https://youtu.be/ks44xnOadyM?si=k9mQ5Hg_kO_OqXaw
 
 Check `examples.py` inside the subdirectory `src` in the original Al Sweigart repository in order to see the code behind his premade bots including the `MonteCarlo` one.  
-⚠️ Yes, the last bot has that 0/1000 winning rate. This moderate-conservative strategie perform that bad in this press-to-luck game.   
+⚠️ Yes, the last bot has that 0/1000 winning rate. This moderate-conservative strategy performs that bad in this press-to-luck game.   
 
 Where to find the Deluxe physical Zombie Dice _board_ game: https://warehouse23.com/products/zombie-dice-deluxe-1?_pos=5&_sid=585f1cb32&_ss=r
