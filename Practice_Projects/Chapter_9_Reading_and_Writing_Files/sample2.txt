@@ -1,0 +1,5 @@
+Here's another file for testing.
+No match in this file.
+You can search for a custom pattern.
+This line has a pattern: ABC123XYZ
+And this one too: regex101
