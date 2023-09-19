@@ -1,5 +1,0 @@
-This is a test file.
-It contains some sample text.
-Line 3 has a matching pattern.
-There is no match in this line.
-Another match in line 6.
