@@ -1,4 +1,6 @@
-With respect to the `command_line_emailer.py` the code is copied from https://github.com/thomaskellough/Automate-The-Boring-Stuff/blob/master/Practice-Projects/Ch%2011%20-%20Command%20Line%20Emailer.py with a few exceptions.
+## command_line_emailer.py
+
+The code is copied from https://github.com/thomaskellough/Automate-The-Boring-Stuff/blob/master/Practice-Projects/Ch%2011%20-%20Command%20Line%20Emailer.py with a few exceptions.
 
 Here the driver for Chrome 116: https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win64/chromedriver-win64.zip, remember to do `chrome://version` in order to see the version of your browser and install the EXACT same version of the driver. 
 
