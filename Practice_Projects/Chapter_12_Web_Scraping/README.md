@@ -6,4 +6,8 @@ Here the driver for Chrome 116: https://edgedl.me.gvt1.com/edgedl/chrome/chrome-
 
 First of all, I changed the deprecated method `find_element_by_id` to `find_element` with it's respective parameter as you can see in the file I provided (See documentation relating Selenium 4.3.0). Second and MOST IMPORTANT this code does not work. Why?
 
-Well, `mail.google.com` does not allow to use directly automated software such as Selenium. Nor does Facebook or Twitter if you wanted to make an additional program. You would have to do it another way, the first step is probably consulting their API's.  
+Well, `mail.google.com` does not allow to use directly automated software such as Selenium. Nor does Facebook or Twitter if you wanted to make an additional program. You would have to do it another way, the first step is probably consulting their API's.
+
+## 2048.py
+
+Code copied from: https://github.com/s0mnaths/Automate-the-Boring-Stuff-with-Python-Solutions, very recommended repository. I just updated the deprecated method. 
