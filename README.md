@@ -3,3 +3,5 @@ As the repository name says, this contains the solutions to all the exercises of
 
 ⚠️ **DISCLAIMER** ⚠️
 This solution sheet is not certified by the author or industry professionals. This document is not responsible for any errors in claiming to be a solution to an exercise. Corrections are welcome, you may make pull request if desired.
+
+Inspired by: https://github.com/s0mnaths/Automate-the-Boring-Stuff-with-Python-Solutions
